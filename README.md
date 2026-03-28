@@ -59,6 +59,7 @@ $ uptime
 ✅ html .............. can center a div (sometimes)
 ✅ css ............... makes things purple
 ✅ python ............ prints hello world professionally
+✅ be a silly billy .. 100% assured
 ⏳ everything else .. loading...
 🔴 sleep ............. not found
 ```
