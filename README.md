@@ -11,7 +11,9 @@
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝   
 ```
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fauguxt&count_bg=%236e00ff&title_bg=%23ff00c8&icon=github.svg&icon_color=%23ffffff&title=👁️+victims+so+far&edge_flat=false" height="28"/>
+<img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"/>
+<br/>
+<sub>👁️ <i>victims so far</i></sub>
 
 <br/><br/>
 
