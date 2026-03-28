@@ -17,8 +17,6 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/ZVik7pIo9mVQI/giphy.gif" width="380" style="border-radius:12px"/>
-
 <br/>
 
 > *somewhere out there, a bug i wrote is still running in production.*
