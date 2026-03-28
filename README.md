@@ -1,92 +1,103 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=140&color=0:0a0a0a,100:1a0033&text=⚠️%20WARNING&fontColor=ff00c8&fontSize=40&animation=blinking&desc=you%20have%20entered%20auguxt's%20lair&descAlignY=75&descSize=14&descAlign=50&fontAlignY=45"/>
-</p>
+<!--
+  auguxt — github profile readme
+  built different. not a template. not a copy.
+-->
 
-<br/>
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  ██████╗  ██╗   ██╗ ██████╗  ██╗   ██╗ ██╗  ██╗ ░
+░  ██╔══██╗ ██║   ██║██╔════╝  ██║   ██║ ╚██╗██╔╝ ░
+░  ███████║ ██║   ██║██║  ███╗ ██║   ██║  ╚███╔╝  ░
+░  ██╔══██║ ██║   ██║██║   ██║ ██║   ██║  ██╔██╗  ░
+░  ██║  ██║ ╚██████╔╝╚██████╔╝ ╚██████╔╝ ██╔╝ ██╗ ░
+░  ╚═╝  ╚═╝  ╚═════╝  ╚═════╝   ╚═════╝ ╚═╝  ╚═╝ ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1500&color=9D00FF&center=true&vCenter=true&repeat=false&width=420&lines=👁️+people+who+stumbled+in+here+so+far:" />
-</p>
-<p align="center">
-  <img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"/>
-</p>
-<p align="center">
-  <sub><i>yes, all of them were confused. welcome to the club.</i></sub>
-</p>
+<div align="center">
 
-<br/>
+![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fauguxt&count_bg=%236e00ff&title_bg=%230a0a0a&icon=github.svg&icon_color=%23ff00c8&title=profile+hits&edge_flat=false)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=ff00c8&center=true&vCenter=true&width=500&lines=initializing+auguxt.exe...;loading+personality...+done+✓;loading+talent...+please+wait...;still+loading+talent...;loading+talent...+[TIMEOUT];skill+issue+detected.+continuing+anyway.+💀" />
-</p>
+*every visit logged. you can't hide.*
+
+</div>
 
 ---
 
-```bash
-$ whoami
-> auguxt
+<div align="center">
 
-$ cat about.txt
-> a person who types code until it works
-> then has no idea why it works
-> 🌙 nocturnal by nature, debugging by force
+### who is this guy
 
-$ ls skills/
-> html/     css/     python/     vibes/     sleep-deprivation/
+`[ auguxt ]` — a developer in the making. mostly makes bugs. occasionally makes features. can't tell the difference.
 
-$ cat hobbies.txt
-> - staring at code that was working 5 minutes ago
-> - googling errors that are 1 character long
-> - adding features nobody asked for
+</div>
 
-$ sudo fix --my-life
-> [sudo] password for auguxt: 
-> nice try.
+---
+
+### `> run diagnostics.py`
+
+```python
+class Auguxt:
+    name       = "auguxt"
+    status     = "alive (probably)"
+    languages  = ["Python", "HTML", "CSS"]
+    sleep      = None  # deprecated
+    confidence = "unearned but consistent"
+
+    def fix_bug(self, bug):
+        self.google(bug)
+        self.google(bug + " stackoverflow")
+        self.google("why is my " + bug + " not working")
+        self.change_random_thing()
+        return "it works now (don't ask why)"
+
+    def push_to_github(self):
+        os.system('git add .')
+        os.system('git commit -m "final fix"')   # lie #47
+        os.system('git commit -m "ACTUAL final"') # lie #48
+        os.system('git push')
 ```
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=2000&color=9D00FF&center=true&vCenter=true&width=460&lines=if+this+profile+crashes+it's+a+feature+not+a+bug" />
-</p>
+### `> ls ./skills --honest`
+
+```
+✅ html .............. can center a div (sometimes)
+✅ css ............... makes things purple
+✅ python ............ prints hello world professionally
+⏳ everything else .. loading...
+🔴 sleep ............. not found
+```
 
 ---
 
-### 🧠 system diagnostic
+### `> cat ./stats.json`
 
-| component | status |
-|-----------|--------|
-| 💤 sleep | critically low |
-| ☕ caffeine | stable |
-| 🐛 bugs written | countless |
-| 🐛 bugs fixed | some of them |
-| 🔥 lines deleted | more than written |
-| 🧠 brain.exe | running on 11% |
-
----
-
-### 🛠️ things i use to cause problems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,vscode,git,github&theme=dark" />
-</p>
-
----
-
-### 📊 proof that i open github
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=auguxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=ff00c8&icon_color=9d00ff&text_color=cccccc&rank_icon=github" width="47%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=auguxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bf00ff&icon_color=ff00c8&text_color=cccccc" width="47%"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=auguxt&theme=tokyonight&hide_border=true&background=0a0a0a&ring=ff00c8&fire=bf00ff&currStreakLabel=cccccc" width="47%"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auguxt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=bf00ff&text_color=cccccc" width="47%"/>
+</div>
 
 ---
 
-<p align="center">
-  <i>last seen: arguing with a semicolon</i>
-</p>
+### `> fetch trophies`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0033,100:0a0a0a&section=footer&reversal=false"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=auguxt&theme=darkhub&no-frame=true&row=1&column=6&margin-w=5"/>
+</div>
+
+---
+
+### `> tail -1 activity.log`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=auguxt&bg_color=0d0d0d&color=bf00ff&line=6e00ff&point=ff00c8&area=true&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ this readme was written at 2am and has no regrets</sub>
+</div>
