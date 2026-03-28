@@ -1,24 +1,19 @@
-<!--
-  auguxt — github profile readme
-  built different. not a template. not a copy.
--->
+<!--  auguxt — github profile readme -->
 
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░  ██████╗  ██╗   ██╗ ██████╗  ██╗   ██╗ ██╗  ██╗ ░
-░  ██╔══██╗ ██║   ██║██╔════╝  ██║   ██║ ╚██╗██╔╝ ░
-░  ███████║ ██║   ██║██║  ███╗ ██║   ██║  ╚███╔╝  ░
-░  ██╔══██║ ██║   ██║██║   ██║ ██║   ██║  ██╔██╗  ░
-░  ██║  ██║ ╚██████╔╝╚██████╔╝ ╚██████╔╝ ██╔╝ ██╗ ░
-░  ╚═╝  ╚═╝  ╚═════╝  ╚═════╝   ╚═════╝ ╚═╝  ╚═╝ ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗  ██╗████████╗
+██╔══██╗██║   ██║██╔════╝ ██║   ██║╚██╗██╔╝╚══██╔══╝
+███████║██║   ██║██║  ███╗██║   ██║ ╚███╔╝    ██║   
+██╔══██║██║   ██║██║   ██║██║   ██║ ██╔██╗    ██║   
+██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝██╔╝ ██╗   ██║   
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝   
 ```
 
 <div align="center">
 
-![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fauguxt&count_bg=%236e00ff&title_bg=%230a0a0a&icon=github.svg&icon_color=%23ff00c8&title=profile+hits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=auguxt&color=6e00ff&style=for-the-badge&label=VICTIMS+WHO+VISITED)
 
-*every visit logged. you can't hide.*
+*each one of them left more confused than before. welcome.*
 
 </div>
 
@@ -26,41 +21,47 @@
 
 <div align="center">
 
-### who is this guy
+### 🕳️ who is this guy
 
-`[ auguxt ]` — a developer in the making. mostly makes bugs. occasionally makes features. can't tell the difference.
+**auguxt** — a self-taught developer who writes code at 2am,  
+breaks it at 2:01am, and fixes it at 4am by deleting everything and starting over.  
+
+> operates on 3 things: **caffeine**, **stack overflow**, and **false confidence**  
+> currently learning to code. also currently forgetting how to code.  
+> types with 10 fingers. none of them know what they're doing.  
+> 🌙 nocturnal. the bugs come out at night. so does auguxt.
 
 </div>
 
 ---
 
-### `> run diagnostics.py`
+### `> open terminal`
 
-```python
-class Auguxt:
-    name       = "auguxt"
-    status     = "alive (probably)"
-    languages  = ["Python", "HTML", "CSS"]
-    sleep      = None  # deprecated
-    confidence = "unearned but consistent"
+```bash
+$ whoami
+> auguxt
 
-    def fix_bug(self, bug):
-        self.google(bug)
-        self.google(bug + " stackoverflow")
-        self.google("why is my " + bug + " not working")
-        self.change_random_thing()
-        return "it works now (don't ask why)"
+$ cat about.txt
+> a person who types code until it works
+> then has no idea why it works
+> 🌙 nocturnal by nature, debugging by force
 
-    def push_to_github(self):
-        os.system('git add .')
-        os.system('git commit -m "final fix"')   # lie #47
-        os.system('git commit -m "ACTUAL final"') # lie #48
-        os.system('git push')
+$ ls skills/
+> html/     css/     python/     vibes/     sleep-deprivation/
+
+$ cat hobbies.txt
+> - staring at code that was working 5 minutes ago
+> - googling errors that are 1 character long
+> - adding features nobody asked for
+
+$ sudo fix --my-life
+> [sudo] password for auguxt: 
+> nice try.
 ```
 
 ---
 
-### `> ls ./skills --honest`
+### `> ls ./skills --be-honest`
 
 ```
 ✅ html .............. can center a div (sometimes)
@@ -82,22 +83,13 @@ class Auguxt:
 
 ---
 
-### `> fetch trophies`
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=auguxt&theme=darkhub&no-frame=true&row=1&column=6&margin-w=5"/>
-</div>
 
----
+```
+fun fact: the commit message "final fix" has been used 38 times.
+none of them were the final fix.
+```
 
-### `> tail -1 activity.log`
+*⚡ last seen: renaming a variable hoping it would fix the bug. it did. no one knows why.*
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=auguxt&bg_color=0d0d0d&color=bf00ff&line=6e00ff&point=ff00c8&area=true&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ this readme was written at 2am and has no regrets</sub>
 </div>
