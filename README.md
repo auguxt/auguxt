@@ -5,6 +5,18 @@
 <br/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1500&color=9D00FF&center=true&vCenter=true&repeat=false&width=420&lines=👁️+people+who+stumbled+in+here+so+far:" />
+</p>
+<p align="center">
+  <img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"/>
+</p>
+<p align="center">
+  <sub><i>yes, all of them were confused. welcome to the club.</i></sub>
+</p>
+
+<br/>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=ff00c8&center=true&vCenter=true&width=500&lines=initializing+auguxt.exe...;loading+personality...+done+✓;loading+talent...+please+wait...;still+loading+talent...;loading+talent...+[TIMEOUT];skill+issue+detected.+continuing+anyway.+💀" />
 </p>
 
@@ -73,14 +85,6 @@ $ sudo fix --my-life
 
 <p align="center">
   <i>last seen: arguing with a semicolon</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
-  <br/>
-  <sub>people who got lost and ended up here</sub>
 </p>
 
 <p align="center">
