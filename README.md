@@ -97,17 +97,6 @@ $ uptime
 
 <div align="center">
 
-### 🌐 currently
-
-![](https://img.shields.io/badge/listening%20to-the%20sound%20of%20my%20cpu%20fan%20crying-6e00ff?style=flat-square&logo=spotify&logoColor=white)
-![](https://img.shields.io/badge/eating-instant%20noodles%20at%203am-ff00c8?style=flat-square)
-![](https://img.shields.io/badge/mood-it%20compiles%20so%20ship%20it-bf00ff?style=flat-square)
-
-<br/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
-
-<br/>
 
 *thanks for visiting. you've officially wasted 30 seconds of your life.*
 *no refunds.*
