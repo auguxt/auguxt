@@ -1,25 +1,23 @@
-<!-- auguxt — github profile readme -->
+# <!-- auguxt — github profile readme -->
 
 <div align="center">
-
-```
+<pre>
  █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗  ██╗████████╗
 ██╔══██╗██║   ██║██╔════╝ ██║   ██║╚██╗██╔╝╚══██╔══╝
 ███████║██║   ██║██║  ███╗██║   ██║ ╚███╔╝    ██║   
 ██╔══██║██║   ██║██║   ██║██║   ██║ ██╔██╗    ██║   
 ██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝██╔╝ ██╗   ██║   
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝   
-```
+</pre>
 
 <img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"/>
 <br/>
 <sub>👁️ <i>victims so far</i></sub>
-
 <br/><br/>
 
-<br/>
-
-> *somewhere out there, a bug i wrote is still running in production.*
+<blockquote>
+<em>somewhere out there, a bug i wrote is still running in production.</em>
+</blockquote>
 
 </div>
 
@@ -30,31 +28,25 @@
 ```bash
 $ whoami
 > auguxt
-
 $ cat about.txt
 > a person who types code until it works
 > then has no idea why it works
 > 🌙 nocturnal by nature, debugging by force
-
 $ ls skills/
 > html/     css/     python/     vibes/     sleep-deprivation/
-
 $ cat hobbies.txt
 > - staring at code that was working 5 minutes ago
 > - googling errors that are 1 character long
 > - adding features nobody asked for
-
 $ sudo fix --my-life
 > [sudo] password for auguxt: 
 > nice try.
-
 $ git log --oneline -5
 > 4f3a1bc "final fix"
 > 9d2e7aa "ACTUAL final fix"
 > 1c8b3df "ok THIS is the final fix"
 > 7e4d9fa "why is it still broken"
 > 2a1f6c0 "asdfghjkl"
-
 $ uptime
 > 19 days, 4 hours, 32 mins — no reboot. no sleep. no regrets.
 ```
@@ -96,9 +88,7 @@ $ uptime
 ---
 
 <div align="center">
-
-
-*thanks for visiting. you've officially wasted 30 seconds of your life.*
-*no refunds.*
-
+<em>thanks for visiting. you've officially wasted 30 seconds of your life.</em>
+<br/>
+<em>no refunds.</em>
 </div>
