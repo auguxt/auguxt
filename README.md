@@ -1,95 +1,34 @@
-# <!-- auguxt — github profile readme -->
+# Auguxt
 
-<div align="center">
-<pre>
- █████╗ ██╗   ██╗ ██████╗ ██╗   ██╗██╗  ██╗████████╗
-██╔══██╗██║   ██║██╔════╝ ██║   ██║╚██╗██╔╝╚══██╔══╝
-███████║██║   ██║██║  ███╗██║   ██║ ╚███╔╝    ██║   
-██╔══██║██║   ██║██║   ██║██║   ██║ ██╔██╗    ██║   
-██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝██╔╝ ██╗   ██║   
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝   
-</pre>
+A modern project by auguxt.
 
-<img src="https://count.getloli.com/@auguxt?name=auguxt&theme=booru-lewd&padding=5&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"/>
-<br/>
-<sub>👁️ <i>victims so far</i></sub>
-<br/><br/>
+## Getting Started
 
-<blockquote>
-<em>somewhere out there, a bug i wrote is still running in production.</em>
-</blockquote>
+This repository contains code and resources for the Auguxt project.
 
-</div>
+## Features
 
----
+- Clean and organized structure
+- Easy to extend and maintain
+- Well-documented
 
-### `>_ open terminal`
+## Installation
+
+Clone the repository:
 
 ```bash
-$ whoami
-> auguxt
-$ cat about.txt
-> a person who types code until it works
-> then has no idea why it works
-> 🌙 nocturnal by nature, debugging by force
-$ ls skills/
-> html/     css/     python/     vibes/     sleep-deprivation/
-$ cat hobbies.txt
-> - staring at code that was working 5 minutes ago
-> - googling errors that are 1 character long
-> - adding features nobody asked for
-$ sudo fix --my-life
-> [sudo] password for auguxt: 
-> nice try.
-$ git log --oneline -5
-> 4f3a1bc "final fix"
-> 9d2e7aa "ACTUAL final fix"
-> 1c8b3df "ok THIS is the final fix"
-> 7e4d9fa "why is it still broken"
-> 2a1f6c0 "asdfghjkl"
-$ uptime
-> 19 days, 4 hours, 32 mins — no reboot. no sleep. no regrets.
+git clone https://github.com/auguxt/auguxt.git
+cd auguxt
 ```
 
----
+## Contributing
 
-### `>_ ls ./skills --be-honest`
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-```
-✅ html .............. can center a div (sometimes)
-✅ css ............... makes things purple
-✅ python ............ prints hello world professionally
-✅ be a silly billy .. 100% assured
-⏳ everything else .. loading...
-🔴 sleep ............. not found
-```
+## License
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,git,github&theme=dark"/>
-</div>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Support
 
-### `>_ cat error.log`
-
-```
-[00:01] started coding
-[00:03] it worked first try (suspicious)
-[00:04] added one more thing
-[00:04] everything is broken
-[00:47] googled the error
-[01:12] stackoverflow tab #14 opened
-[02:33] fixed it by removing the "fix"
-[02:34] pushed to main directly (no regrets)
-[04:00] went to sleep
-[04:01] remembered a bug
-[04:01] did not get up. it's tomorrow's problem.
-```
-
----
-
-<div align="center">
-<em>thanks for visiting. you've officially wasted 30 seconds of your life.</em>
-<br/>
-<em>no refunds.</em>
-</div>
+For questions or issues, please open an issue on this repository.
